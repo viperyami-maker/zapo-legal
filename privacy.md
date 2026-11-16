@@ -5,7 +5,7 @@ layout: default
 
 # Privacy Policy / Politique de confidentialité
 
-_Last updated: 13 November 2026 — Dernière mise à jour : 13 novembre 2026_
+_Last updated: 16 November 2026 — Dernière mise à jour : 16 novembre 2026_
 
 ---
 
@@ -28,23 +28,10 @@ your home network. We designed it to collect as little as possible.
 
 We have **no server and no account system**. We do not sell data.
 
-### Advertising (free version)
-The free version shows ads from **Google AdMob**. Google's ad SDK
-automatically collects your IP address (used to estimate an approximate
-location), app and ad interactions (app launches, taps, ad views),
-diagnostic data (such as launch time and app responsiveness) and device
-identifiers (advertising ID, app set ID). This data is shared with Google,
-which uses it to show and measure ads, for analytics and to prevent fraud.
-Ads are limited to content suitable for all audiences.
-- In the European Economic Area, the UK and Switzerland, the app asks for
-  your consent through Google's consent tool before personalized ads; you can
-  change your choice at any time in **Settings › Ad privacy choices**.
-- On iOS, you are asked whether apps may track you (App Tracking
-  Transparency); refusing keeps the app fully functional.
-- Google's policy: https://policies.google.com/technologies/partner-sites
-
-The paid option **"Remove ads"** disables all ads. Purchases are processed by
-Apple or Google; we never see your payment details.
+### No ads, no purchases
+The app is entirely free. It shows **no ads**, contains **no advertising or
+analytics SDK** and **no in-app purchases**. It collects no data about you
+and shares nothing with third parties.
 
 ### Crash reports (if enabled)
 If crash reporting is enabled in a future version, technical crash data
@@ -58,18 +45,13 @@ version, OS, TV protocol and model). Nothing is sent unless you send the
 e-mail yourself.
 
 ### Security
-Ad data is encrypted in transit (TLS). Pairing secrets stay in the secure
-storage of your phone (Android Keystore / iOS Keychain). Remote control
-commands never leave your home network.
+Pairing secrets stay in the secure storage of your phone (Android Keystore /
+iOS Keychain). Remote control commands never leave your home network.
 
 ### Data retention and deletion
 FRIMAPE keeps no data on any server. Data stored on your phone stays there
 until you remove a TV in the app or uninstall the app, which deletes
-everything. Google keeps ad data under its own retention policy
-(https://policies.google.com/technologies/retention); you can reset or
-delete your advertising ID in your phone settings (Android: Settings ›
-Privacy (or Google) › Ads). The "Remove ads" purchase turns off all ads.
-For any request: **athb.conseil@gmail.com** (answer within 30 days).
+everything. For any request: **athb.conseil@gmail.com** (answer within 30 days).
 
 ### Children
 The app is not directed to children under 13.
@@ -101,27 +83,11 @@ moins de données possible.
 Nous n'avons **aucun serveur et aucun système de compte**. Nous ne vendons
 aucune donnée.
 
-### Publicité (version gratuite)
-La version gratuite affiche des publicités **Google AdMob**. Le SDK
-publicitaire de Google collecte automatiquement votre adresse IP (qui sert à
-estimer une localisation approximative), les interactions avec l'appli et
-les pubs (ouvertures, appuis, affichages), des données de diagnostic (comme
-le temps de démarrage et la réactivité de l'appli) et des identifiants de
-l'appareil (identifiant publicitaire, identifiant de groupe d'applis). Ces
-données sont partagées avec Google, qui s'en sert pour afficher et mesurer
-les pubs, pour des statistiques et pour lutter contre la fraude. Les pubs
-sont limitées à des contenus adaptés à tous les publics.
-- Dans l'Espace économique européen, au Royaume-Uni et en Suisse, l'appli
-  demande votre consentement avec l'outil de Google avant toute publicité
-  personnalisée ; vous pouvez changer d'avis à tout moment dans
-  **Réglages › Choix de confidentialité des pubs**.
-- Sur iPhone, iOS vous demande si les applis peuvent vous suivre (App
-  Tracking Transparency) ; refuser n'empêche rien.
-- Politique de Google : https://policies.google.com/technologies/partner-sites
-
-L'option payante **« Retirer les pubs »** supprime toutes les publicités.
-Les achats sont traités par Apple ou Google ; nous ne voyons jamais vos
-moyens de paiement.
+### Sans publicité, sans achat
+L'appli est entièrement gratuite. Elle n'affiche **aucune publicité**, ne
+contient **aucun outil de publicité ni de statistiques** et **aucun achat
+intégré**. Elle ne collecte aucune donnée sur vous et ne partage rien avec
+des tiers.
 
 ### Rapports de plantage (s'ils sont activés)
 Si les rapports de plantage sont activés dans une version future, des
@@ -136,20 +102,14 @@ techniques (version de l'appli, système, protocole et modèle de la télé).
 Rien n'est envoyé si vous n'envoyez pas l'e-mail vous-même.
 
 ### Sécurité
-Les données publicitaires sont chiffrées pendant leur transfert (TLS). Les
-secrets d'appairage restent dans le coffre-fort du téléphone (Keystore
+Les secrets d'appairage restent dans le coffre-fort du téléphone (Keystore
 Android / Trousseau iOS). Les commandes de télécommande ne quittent jamais
 votre réseau domestique.
 
 ### Conservation et suppression des données
 FRIMAPE ne conserve aucune donnée sur un serveur. Les données enregistrées
 sur votre téléphone y restent jusqu'à ce que vous supprimiez une télé dans
-l'appli ou que vous désinstalliez l'appli, ce qui efface tout. Google
-conserve les données publicitaires selon ses propres règles
-(https://policies.google.com/technologies/retention) ; vous pouvez
-réinitialiser ou supprimer votre identifiant publicitaire dans les réglages
-du téléphone (Android : Paramètres › Confidentialité (ou Google) ›
-Annonces). L'achat « Retirer les pubs » supprime toutes les publicités.
+l'appli ou que vous désinstalliez l'appli, ce qui efface tout.
 Pour toute demande : **athb.conseil@gmail.com** (réponse sous 30 jours).
 
 ### Enfants

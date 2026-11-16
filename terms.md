@@ -5,7 +5,7 @@ layout: default
 
 # Terms of Use / Conditions d'utilisation
 
-_Last updated: 13 November 2026 — Dernière mise à jour : 13 novembre 2026_
+_Last updated: 16 November 2026 — Dernière mise à jour : 16 novembre 2026_
 
 ---
 
@@ -33,11 +33,8 @@ we cannot guarantee that every model or every key works, nor that a
 manufacturer will not change its software in a way that breaks the
 connection. The app needs your phone and your TV on the same local network.
 
-### Free version and "Remove ads"
-The app is free and shows ads. The one-time purchase "Remove ads" removes
-them on the store account used to buy it; it can be restored on a new phone
-with the same account. Payments, refunds and taxes are handled by Google
-Play or the App Store under their own terms.
+### Price
+The app is entirely free: no ads and no in-app purchases.
 
 ### Your data
 How data is handled is described in the privacy policy:
@@ -81,12 +78,8 @@ garantir que chaque modèle ou chaque touche fonctionne, ni qu'un fabricant ne
 modifiera pas son logiciel d'une façon qui empêche la connexion. L'appli
 nécessite que le téléphone et la télé soient sur le même réseau local.
 
-### Version gratuite et « Retirer les pubs »
-L'appli est gratuite et affiche des publicités. L'achat unique « Retirer
-les pubs » les supprime pour le compte du store utilisé pour l'achat ; il
-peut être restauré sur un nouveau téléphone avec le même compte. Les
-paiements, remboursements et taxes sont gérés par Google Play ou l'App Store
-selon leurs propres conditions.
+### Prix
+L'appli est entièrement gratuite : sans publicité et sans achat intégré.
 
 ### Vos données
 Le traitement des données est décrit dans la politique de confidentialité :
